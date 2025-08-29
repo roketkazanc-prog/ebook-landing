@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Affiliate Page - AI Side Hustles Book</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: linear-gradient(135deg, #1d3557, #457b9d);
+      color: #fff;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 40px 20px;
+    }
+    h1, h2 {
+      text-align: center;
+      margin-bottom: 15px;
+    }
+    p {
+      font-size: 18px;
+      line-height: 1.6;
+    }
+    .section {
+      background: rgba(0,0,0,0.3);
+      padding: 25px;
+      border-radius: 10px;
+      margin-bottom: 30px;
+    }
+    .cover {
+      display: block;
+      margin: 0 auto 20px;
+      width: 280px;
+      border-radius: 10px;
+      box-shadow: 0 0 20px rgba(0,0,0,0.5);
+    }
+    .button {
+      display: block;
+      width: 280px;
+      margin: 20px auto;
+      text-align: center;
+      padding: 15px;
+      background: #e63946;
+      color: #fff;
+      font-size: 20px;
+      text-decoration: none;
+      border-radius: 8px;
+      transition: 0.3s;
+    }
+    .button:hover {
+      background: #ff4d6d;
+    }
+    .highlight {
+      color: #ffcc00;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+
+    <!-- Book Cover -->
+    <img src="Make Money With AI.png" alt="AI Side Hustles Book" class="cover">
+
+    <!-- Section 1: Kitabın içeriği ve faydaları -->
+    <div class="section">
+      <h2>📘 About the Book</h2>
+      <p><strong>AI Side Hustles Book</strong> is your step-by-step guide to building profitable side incomes using Artificial Intelligence. 
+      Inside, you’ll learn:</p>
+      <ul>
+        <li>Most profitable AI-powered side hustles in 2025</li>
+        <li>Step-by-step process to launch your first AI business</li>
+        <li>Top tools & platforms for AI monetization</li>
+        <li>Real case studies of people earning with AI</li>
+        <li>How to scale and automate your AI business</li>
+      </ul>
+      <p>This book is perfect for <span class="highlight">beginners and entrepreneurs</span> who want to leverage AI to create sustainable income streams.</p>
+      <p class="highlight">Price: $9.99</p>
+    </div>
+
+    <!-- Section 2: Affiliate için kazanç ve avantajlar -->
+    <div class="section">
+      <h2>💰 Affiliate Benefits</h2>
+      <p>As an affiliate, you earn a generous <span class="highlight">50% commission</span> on every sale!</p>
+      <p>That means for each $9.99 sale, you’ll receive <span class="highlight">$4.99</span> instantly credited to your account.</p>
+      <p>Why promote this book?</p>
+      <ul>
+        <li>High-demand topic: AI & Online Income</li>
+        <li>Affordable price: Easy to convert ($9.99)</li>
+        <li>High commission: 50% per sale</li>
+        <li>Proven strategies & real success stories inside</li>
+      </ul>
+      <a href="https://www.checkout-ds24.com/redir/628615/AFFILIATE/CAMPAIGNKEY" class="button">Get Affiliate Link</a>
+    </div>
+
+    <!-- Section 3: Hazır pazarlama materyalleri -->
+    <div class="section">
+      <h2>📢 Marketing Materials</h2>
+      <p>We provide affiliates with ready-to-use promotional resources:</p>
+      <ul>
+        <li>✅ Book cover image (high quality)</li>
+        <li>✅ Pre-written email swipe files</li>
+        <li>✅ Social media posts & banners</li>
+        <li>✅ Sales copy examples for ads and blogs</li>
+      </ul>
+      <p>With these resources, you can start promoting immediately and maximize your conversions.</p>
+    </div>
+
+  </div>
+</body>
+</html>
